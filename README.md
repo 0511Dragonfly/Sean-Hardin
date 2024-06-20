@@ -7,7 +7,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure Virtual Machines](https://github.com/SeanHardin247/Configuring-Active-Directory-within-Azure-Virtual-Machines)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SeanHardin247/azure-network-protocols)
-  - [Encrypting files wiwth BitLocker](https://github.com/SeanHardin247/Encrypting-files-with-windows-10)
+  - [Encrypting files with BitLocker](https://github.com/SeanHardin247/Encrypting-files-with-windows-10)
 <h2> Connect with me down here</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
